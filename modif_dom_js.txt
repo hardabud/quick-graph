@@ -1,0 +1,7 @@
+Use
+
+var nodeName = node.localName;
+
+Instead of
+
+var nodeName = node.tagName;

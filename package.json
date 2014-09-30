@@ -1,0 +1,10 @@
+{
+  "name": "quick-graph",
+  "description": "",
+  "author": "hardabud",
+  "dependencies": {
+    "d3": "^3.4.11",
+    "fs": "0.0.2",
+    "xmldom": "^0.1.19"
+  }
+}
